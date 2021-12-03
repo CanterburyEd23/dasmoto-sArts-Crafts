@@ -1,0 +1,38 @@
+header {
+    background-image: url("./images/image1.jpg");
+    font-size: 100px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+aside {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paints h2 {
+    background-color: skyblue;
+}
+
+footer {
+    font-size: 0.8em;
+    opacity: 0.8;
+}
